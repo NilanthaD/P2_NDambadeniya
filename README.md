@@ -30,3 +30,5 @@ Also we practiced the using XUnit to test a funtion.
     Create a class with a funtion (FindLineCoverage()) in the Controller folder
     Create xunit tests (Fact and Theory tests) to test the created funtion.
     
+Visual Studio running the xunit test on TestExplorer
+![alt text](https://github.com/NilanthaD/P2_NDambadeniya/blob/master/Doc/VSRunningTests.JPG)
