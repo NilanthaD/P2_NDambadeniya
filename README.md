@@ -32,3 +32,6 @@ Also we practiced the using XUnit to test a funtion.
     
 App running on the browser
 ![alt text](https://github.com/NilanthaD/P2_NDambadeniya/blob/master/Doc/AppRunningOnTheBrowser.JPG)
+
+Visual studio running the testing methods
+![alt text](https://github.com/NilanthaD/P2_NDambadeniya/blob/master/Doc/VSRunningTests.JPG)
