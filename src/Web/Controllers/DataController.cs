@@ -49,7 +49,7 @@ namespace Web.Controllers
 
         public ActionResult GetHtml()
         {
-            return Content("<html><h1>Get html return</h1></br><p>This GetHtml action will return html headder and a pharagraph.</p></html>");
+            return Content("<!DOCTYPE html><body><html><h1>Get html return</h1></br><p>This GetHtml action will return html headder and a pharagraph.</p></body></html>", "text/html");
         }
     }
 }
