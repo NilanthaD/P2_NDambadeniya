@@ -24,7 +24,7 @@ namespace Web.Controllers
 
         //GET: /Data/ViewReturn
         // View as an action for Data controller
-        public IActionResult ViewReturn()
+        public IActionResult GetView()
         {
             var data = new Data() { text = "Return view from the controller" };             
             return View(data);
@@ -32,7 +32,7 @@ namespace Web.Controllers
 
         //GET:/Data/TextContent
         //text return as an action for Data controller
-        public ContentResult TextContent()
+        public ContentResult GetText()
         {
             return Content("This will return plan text");
         }
